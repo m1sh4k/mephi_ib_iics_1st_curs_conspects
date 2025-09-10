@@ -17,7 +17,7 @@ $z=x+iy=r\cos \phi+ir\sin \phi=|z|(\cos \phi+i\sin \phi)$
 
 
 $$
-z_{1}z_{2}=r_{1}(\cos \phi_{1}+i\sin \phi_{1})r_{2}(\cos \phi_{2}+i\sin \phi_{2})=r_{1}r_{2}[(\cos \phi_{1}\cos \phi_{2}-\sin \phi_{1}\sin \phi_{2})+i(\cos \phi_{1}\sin \phi_{2}+\sin \phi_{1}\cos \phi_{2})=r_{1}r_{2}(\cos(\phi_{1}+\phi_{2})+i\sin(\phi_{1}+\phi_{2}))]
+z_{1}z_{2}=r_{1}(\cos \phi_{1}+i\sin \phi_{1})r_{2}(\cos \phi_{2}+i\sin \phi_{2})=r_{1}r_{2}[(\cos \phi_{1}\cos \phi_{2}-\sin \phi_{1}\sin \phi_{2})+i(\cos \phi_{1}\sin \phi_{2}+\sin \phi_{1}\cos \phi_{2})]=r_{1}r_{2}(\cos(\phi_{1}+\phi_{2})+i\sin(\phi_{1}+\phi_{2}))
 $$
 $\frac{z_{1}}{z_{2}}=\frac{r_{1}}{r_{2}}(\cos(\phi_{1}-\phi_{2})+i\sin(\phi_{1}-\phi_{2}))$
 
