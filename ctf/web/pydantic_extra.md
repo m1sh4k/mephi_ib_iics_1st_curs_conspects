@@ -21,7 +21,7 @@ async def login(login_request: LoginRequest):
 #### schemas.py
 ```python
 class BaseModel(BaseModel): # BaseModel from pydantic!
-    model_config = {'extra': 'allow'} # вот эту хуйню и эксплуатируем!!!
+    model_config = {'extra': 'allow'} # вот эту хуйню и эксплуатируем!
 
 class LoginRequest(BaseModel):
     username: str = Field(..., min_length=4, max_length=50)
