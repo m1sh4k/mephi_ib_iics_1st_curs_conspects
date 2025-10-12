@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="70.722527mm"
+   height="50.780598mm"
+   viewBox="0 0 70.722527 50.780598"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.9351394"
-     inkscape:cx="296.10271"
-     inkscape:cy="600.73193"
-     inkscape:window-width="1912"
-     inkscape:window-height="1141"
+     inkscape:cx="-2.5837932"
+     inkscape:cy="139.52483"
+     inkscape:window-width="977"
+     inkscape:window-height="1402"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -470,20 +470,19 @@
     </g>
   </defs><path
      style="fill:#000000;stroke:#00c314;stroke-width:0.634146;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideHeavy)"
-     d="m 101.09052,162.14045 35.70044,-34.87866"
+     d="M 7.4038286,42.703615 43.104269,7.8249552"
      id="path4"
-     transform="translate(-14.65926,2.5912155)"
      sodipodi:nodetypes="cc" /><path
      style="fill:#000000;stroke:#00c314;stroke-width:0.634146;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideHeavy)"
-     d="m 122.29943,129.25022 19.45825,37.48608"
+     d="M 43.271999,7.2221697 62.730249,44.70825"
      id="path1"
      sodipodi:nodetypes="cc" /><path
      style="fill:#000000;stroke:#00c314;stroke-width:0.634146;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideHeavy)"
-     d="M 142.01823,166.90888 86.791425,164.56293"
+     d="M 62.990799,44.88083 7.7639936,42.53488"
      id="path2"
      sodipodi:nodetypes="cc" /><g
      inkscape:label=""
-     transform="translate(79.027429,161.67851)"
+     transform="translate(-2.39775e-6,39.65046)"
      id="g3"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -499,7 +498,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="translate(119.63497,122.02805)"
+     transform="translate(40.607539)"
      id="g4"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -515,7 +514,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="translate(143.83542,167.83117)"
+     transform="translate(64.807989,45.80312)"
      id="g5"><g
    fill="#a0a0a0"
    fill-opacity="1"

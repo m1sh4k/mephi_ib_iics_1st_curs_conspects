@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="63.360435mm"
+   height="41.800274mm"
+   viewBox="0 0 63.360435 41.800274"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0386018"
-     inkscape:cx="91.950543"
-     inkscape:cy="480.45362"
-     inkscape:window-width="1432"
-     inkscape:window-height="1162"
+     inkscape:cx="107.83729"
+     inkscape:cy="18.293825"
+     inkscape:window-width="977"
+     inkscape:window-height="1402"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -517,10 +517,11 @@
   </defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"><g
+     id="layer1"
+     transform="translate(-51.841551,-119.00674)"><g
        inkscape:label="Layer 1"
        id="layer1-5"
-       transform="translate(-64.4009, 10.2641)"><path
+       transform="translate(-64.4009,10.2641)"><path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#00c314;stroke-width:0.634146;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-end:url(#ArrowWideHeavy);stop-color:#000000;stop-opacity:1"
          d="m 124.83968,139.38151 18.96763,-29.661"
          id="path4" /><path
@@ -630,7 +631,7 @@
          d="m 121.11452,140.77053 3.94861,0.0637"
          id="path9" /><g
          inkscape:label=""
-         transform="translate(88.7295, 116.856)"
+         transform="translate(88.7295,116.856)"
          id="g10"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -687,7 +688,7 @@
    fill="#a0a0a0"
    fill-opacity="1"
    id="g9"
-   transform="matrix(0.352778 0 0 0.352778 -0.994453 -0.700484)">
+   transform="matrix(0.352778,0,0,0.352778,-0.994453,-0.700484)">
     <g
    id="use8"
    transform="translate(105.52542,97.27292)">

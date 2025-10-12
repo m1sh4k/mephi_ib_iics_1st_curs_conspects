@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="80.661728mm"
+   height="55.764095mm"
+   viewBox="0 0 80.661728 55.764095"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.3683502"
-     inkscape:cx="318.99729"
-     inkscape:cy="500.60286"
-     inkscape:window-width="1336"
-     inkscape:window-height="1162"
+     inkscape:cx="192.20226"
+     inkscape:cy="192.20226"
+     inkscape:window-width="977"
+     inkscape:window-height="1402"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -530,12 +530,13 @@
   </defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"><g
+     id="layer1"
+     transform="translate(-56.803781,-81.5968)"><g
        inkscape:label="Layer 1"
        id="layer1-5"
-       transform="translate(11.5345, -28.1005)"><path
+       transform="translate(11.5345,-28.1005)"><path
          style="fill:#000000;stroke:#3264f0;stroke-width:0.396;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-         d="m 45.269281,157.04862 79.255499,0"
+         d="M 45.269281,157.04862 H 124.52478"
          id="path2"
          sodipodi:nodetypes="cc" /><path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#00c314;stroke-width:0.634146;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-end:url(#ArrowWideHeavy);stop-color:#000000;stop-opacity:1"
@@ -543,11 +544,11 @@
          id="path4"
          sodipodi:nodetypes="cc" /><path
          style="fill:#000000;stroke:#00c3ff;stroke-width:0.196;stroke-linejoin:bevel;stroke-dasharray:1.176, 1.176;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 64.155767,156.91385 0,-20.85125"
+         d="M 64.155767,156.91385 V 136.0626"
          id="path7"
          sodipodi:nodetypes="cc" /><path
          style="fill:#000000;stroke:#00c3ff;stroke-width:0.196;stroke-linejoin:bevel;stroke-dasharray:1.176, 1.176;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 105.43799,157.10721 0,-37.48016"
+         d="M 105.43799,157.10721 V 119.62705"
          id="path1"
          sodipodi:nodetypes="cc" /><g
          inkscape:label=""

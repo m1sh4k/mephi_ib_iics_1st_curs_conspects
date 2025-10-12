@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="108.47873mm"
+   height="92.025017mm"
+   viewBox="0 0 108.47873 92.025017"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.067968"
-     inkscape:cx="463.02885"
-     inkscape:cy="742.5316"
-     inkscape:window-width="1336"
-     inkscape:window-height="1162"
+     inkscape:cx="150.75358"
+     inkscape:cy="291.20723"
+     inkscape:window-width="977"
+     inkscape:window-height="1402"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -739,17 +739,18 @@
   </defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"><g
+     id="layer1"
+     transform="translate(-82.833951,-119.08626)"><g
        inkscape:label="Layer 1"
        id="layer1-53"
-       transform="translate(14.4722, 39.2274)"><g
+       transform="translate(14.4722,39.2274)"><g
          inkscape:label="Layer 1"
          id="layer1-5"
-         transform="translate(-3.43512, -2.63024)"><path
+         transform="translate(-3.43512,-2.63024)"><path
            style="fill:#000000;stroke:#3264f0;stroke-width:0.327487;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
            d="M 71.796871,162.2442 H 179.11267"
            id="path2" /><path
-           style="fill:#000000;stroke:#3264f0;stroke-width:0.396;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle);font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#3264f0;stroke-width:0.396;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-end:url(#Triangle);stop-color:#000000;stop-opacity:1"
            d="M 139.31385,174.51412 V 83.895327"
            id="path3" /><path
            style="font-variation-settings:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:#00c800;stroke-width:0.634;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle);stop-color:#000000;stop-opacity:1"

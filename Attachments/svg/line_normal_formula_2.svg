@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="127.6796mm"
+   height="119.54626mm"
+   viewBox="0 0 127.6796 119.54626"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.81127519"
-     inkscape:cx="470.86365"
-     inkscape:cy="427.10538"
-     inkscape:window-width="952"
-     inkscape:window-height="1141"
+     inkscape:cx="334.65833"
+     inkscape:cy="87.516543"
+     inkscape:window-width="977"
+     inkscape:window-height="1402"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -1634,26 +1634,23 @@
     </g>
   </defs><path
      style="fill:#000000;stroke:#3264f0;stroke-width:0.396;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-     d="m 42.32775,214.01242 h 59.84929"
+     d="M 9.2401379,118.26162 H 69.089428"
      id="path2"
-     sodipodi:nodetypes="cc"
-     transform="translate(2.7666783,-6.0893484)" /><path
+     sodipodi:nodetypes="cc" /><path
      style="fill:#000000;stroke:#3264f0;stroke-width:0.396;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-     d="M 42.27074,213.91133 V 150.57432"
+     d="M 9.1831279,118.16053 V 54.823521"
      id="path3"
-     sodipodi:nodetypes="cc"
-     transform="translate(2.7666783,-6.0893484)" /><path
+     sodipodi:nodetypes="cc" /><path
      style="fill:#000000;stroke:#00c314;stroke-width:0.634146;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideHeavy)"
-     d="M 42.276922,213.98172 143.8262,118.64373"
+     d="M 9.1893099,118.23092 110.73859,22.892931"
      id="path8"
-     sodipodi:nodetypes="cc"
-     transform="translate(2.7666783,-6.0893484)" /><path
+     sodipodi:nodetypes="cc" /><path
      style="fill:#000000;stroke:#3264f0;stroke-width:0.396;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-     d="M 116.78416,118.01807 110.86595,95.931019"
+     d="M 80.92987,28.35662 75.01166,6.2695685"
      id="path9"
      sodipodi:nodetypes="cc" /><a
      id="a7"
-     transform="rotate(-15,200.58485,134.51448)"><path
+     transform="rotate(-15,-157.86546,225.85394)"><path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#00c314;stroke-width:0.634145;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 121.33501,97.773492 h -6.86426"
        id="path10"
@@ -1664,12 +1661,11 @@
        sodipodi:nodetypes="cc"
        transform="translate(2.7666783,-6.0893484)" /></a><path
      style="fill:#000000;stroke:#00c314;stroke-width:0.634146;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideHeavy)"
-     d="m 42.663641,213.30496 42.1529,-79.71547"
+     d="M 9.5760289,117.55416 51.728929,37.838691"
      id="path12"
-     sodipodi:nodetypes="cc"
-     transform="translate(2.7666783,-6.0893484)" /><g
+     sodipodi:nodetypes="cc" /><g
      inkscape:label=""
-     transform="translate(103.27051,89.66145)"
+     transform="translate(67.41622)"
      id="g26"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -1698,7 +1694,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="translate(35.854288,203.92156)"
+     transform="translate(-2.39775e-6,114.26011)"
      id="g27"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -1714,7 +1710,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="translate(67.007811,145.54164)"
+     transform="translate(31.153521,55.88019)"
      id="g28"><g
    clip-path="url(#clipPath3621)"
    id="g4-1"
@@ -1747,7 +1743,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="translate(123.70471,138.01463)"
+     transform="translate(87.85042,48.35318)"
      id="g29"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -1789,20 +1785,20 @@
   </g>
 </g><path
      style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#00c314;stroke-width:0.634146;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-     d="M 58.955363,133.83326 163.45182,105.83349"
+     d="M 23.101073,44.17181 127.59753,16.17204"
      id="path7" /><circle
      style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#3264f0;fill-opacity:1;fill-rule:evenodd;stroke:#3264f0;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
      id="path6"
-     cx="147.33321"
-     cy="110.8036"
+     cx="111.47891"
+     cy="21.142145"
      r="1.7774345" /><circle
      style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#3264f0;fill-opacity:1;fill-rule:evenodd;stroke:#3264f0;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
      id="circle11"
-     cx="88.073563"
-     cy="125.69067"
+     cx="52.219273"
+     cy="36.029217"
      r="1.7774345" /><g
      inkscape:label=""
-     transform="rotate(-15,487.24517,-227.31303)"
+     transform="rotate(-15,128.79486,-135.97357)"
      id="g12"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -1877,7 +1873,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="rotate(-15,465.01182,-443.65027)"
+     transform="rotate(-15,106.56151,-352.31081)"
      id="g17"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -1997,7 +1993,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="translate(105.01504,202.69148)"
+     transform="translate(69.16075,113.03003)"
      id="g18"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -2013,7 +2009,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="translate(40.114642,142.03081)"
+     transform="translate(4.2603516,52.36936)"
      id="g19"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -2029,7 +2025,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="translate(112.84222,120.83218)"
+     transform="translate(76.98793,31.17073)"
      id="g20"><g
    fill="#a0a0a0"
    fill-opacity="1"

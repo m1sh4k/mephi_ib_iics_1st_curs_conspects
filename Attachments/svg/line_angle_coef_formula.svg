@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="95.050774mm"
+   height="99.408989mm"
+   viewBox="0 0 95.050774 99.408989"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.3450715"
-     inkscape:cx="489.93679"
-     inkscape:cy="549.04146"
-     inkscape:window-width="1912"
-     inkscape:window-height="1141"
+     inkscape:cx="151.6648"
+     inkscape:cy="205.19355"
+     inkscape:window-width="977"
+     inkscape:window-height="1402"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -920,12 +920,13 @@
        id="path9731-4" /></g></g></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"><g
+     id="layer1"
+     transform="translate(-89.414359,-91.008921)"><g
        inkscape:label="Layer 1"
        id="layer1-5"
-       transform="translate(4.39074, -14.6067)"><path
+       transform="translate(4.39074,-14.6067)"><path
          style="fill:#000000;stroke:#3264f0;stroke-width:0.396;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-         d="m 85.023619,162.2442 93.644551,0"
+         d="M 85.023619,162.2442 H 178.66817"
          id="path2"
          sodipodi:nodetypes="cc" /><path
          style="fill:#000000;stroke:#3264f0;stroke-width:0.396;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
@@ -1142,7 +1143,7 @@
          id="layer1-5-3"
          transform="translate(3.1750004,-6.8791679)"><path
            style="fill:#000000;stroke:#00c3ff;stroke-width:0.196;stroke-linejoin:bevel;stroke-dasharray:1.176, 1.176;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 107.12362,143.26628 34.27282,0"
+           d="m 107.12362,143.26628 h 34.27282"
            id="path7"
            sodipodi:nodetypes="cc" /><path
            style="fill:#000000;stroke:#00c3ff;stroke-width:0.196;stroke-linejoin:bevel;stroke-dasharray:1.176, 1.176;stroke-dashoffset:0;stroke-opacity:1"

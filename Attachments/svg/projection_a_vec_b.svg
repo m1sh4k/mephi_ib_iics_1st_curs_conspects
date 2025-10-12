@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="89.462135mm"
+   height="29.136795mm"
+   viewBox="0 0 89.462135 29.136795"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.3683502"
-     inkscape:cx="456.38903"
-     inkscape:cy="494.7564"
-     inkscape:window-width="1336"
-     inkscape:window-height="1162"
+     inkscape:cx="235.31988"
+     inkscape:cy="57.733759"
+     inkscape:window-width="977"
+     inkscape:window-height="1402"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -900,12 +900,13 @@
        id="path9731-3" /></g></g></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"><g
+     id="layer1"
+     transform="translate(-58.601039,-115.62944)"><g
        inkscape:label="Layer 1"
        id="layer1-5"
-       transform="translate(-25.7718, -31.2755)"><path
+       transform="translate(-25.7718,-31.2755)"><path
          style="fill:#000000;stroke:#3264f0;stroke-width:0.396;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-         d="m 84.372839,174.82297 85.969491,0"
+         d="M 84.372839,174.82297 H 170.34233"
          id="path2"
          sodipodi:nodetypes="cc" /><path
          style="fill:#000000;stroke:#00c314;stroke-width:0.634146;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideHeavy)"
@@ -1007,6 +1008,6 @@
          id="layer1-5-1"
          transform="translate(39.68754,-19.314535)"><path
            style="fill:#000000;stroke:#00c3ff;stroke-width:0.196;stroke-linejoin:bevel;stroke-dasharray:1.176, 1.176;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 112.46652,174.49812 0,19.78777"
+           d="m 112.46652,174.49812 v 19.78777"
            id="path7"
            sodipodi:nodetypes="cc" /></g></g></g></svg>

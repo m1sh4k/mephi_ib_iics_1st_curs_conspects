@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="103.92257mm"
+   height="106.5892mm"
+   viewBox="0 0 103.92257 106.5892"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.393534"
-     inkscape:cx="424.10161"
-     inkscape:cy="533.53561"
-     inkscape:window-width="889"
-     inkscape:window-height="1141"
+     inkscape:cx="133.1148"
+     inkscape:cy="223.1736"
+     inkscape:window-width="977"
+     inkscape:window-height="1402"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -528,21 +528,19 @@
     </g>
   </defs><path
      style="fill:#000000;stroke:#3264f0;stroke-width:0.396;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-     d="m 76.151828,162.2442 102.516342,0"
+     d="M 0,79.160968 H 102.51634"
      id="path2"
-     transform="translate(0.68657369,-0.84836786)"
      sodipodi:nodetypes="cc" /><path
      style="fill:#000000;stroke:#3264f0;stroke-width:0.396;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-     d="m 100.91343,189.67243 0,-105.182972"
+     d="M 24.761602,106.5892 V 1.4062256"
      id="path3"
-     transform="translate(0.68657369,-0.84836786)"
      sodipodi:nodetypes="cc" /><path
      style="fill:#000000;stroke:#00c314;stroke-width:0.634146;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-     d="M 84.44396,95.959502 160.38723,173.3478"
+     d="M 7.6055583,13.724637 83.548828,91.112935"
      id="path4"
      sodipodi:nodetypes="cc" /><g
      inkscape:label=""
-     transform="translate(174.60801,154.18054)"
+     transform="translate(97.769608,71.945675)"
      id="g1"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -558,7 +556,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="translate(104.9084,83.245125)"
+     transform="translate(28.069998,1.0102605)"
      id="g3"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -574,7 +572,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="translate(129.62458,129.21721)"
+     transform="translate(52.786178,46.982345)"
      id="g4"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -590,7 +588,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="translate(122.06775,166.54511)"
+     transform="translate(45.229348,84.310245)"
      id="g6"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -632,7 +630,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="translate(89.720512,134.03397)"
+     transform="translate(12.88211,51.799105)"
      id="g7"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -674,7 +672,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="matrix(1,0,0,6.4456096,98.954898,113.96166)"
+     transform="matrix(1,0,0,6.4456096,22.116496,31.726795)"
      id="g8"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -690,7 +688,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="matrix(0,-1,6.4456096,0,101.95491,164.07791)"
+     transform="matrix(0,-1,6.4456096,0,25.116508,81.843045)"
      id="g11"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -707,16 +705,16 @@
 </g><circle
      style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#3264f0;fill-opacity:1;fill-rule:evenodd;stroke:#3264f0;stroke-width:0.348569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
      id="path11"
-     cx="101.60773"
-     cy="113.36501"
+     cx="24.769325"
+     cy="31.130148"
      r="0.86850452" /><circle
      style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#3264f0;fill-opacity:1;fill-rule:evenodd;stroke:#3264f0;stroke-width:0.348569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
      id="circle11"
-     cx="148.67107"
-     cy="161.54724"
+     cx="71.832664"
+     cy="79.312378"
      r="0.86850452" /><g
      inkscape:label=""
-     transform="translate(148.28453,155.78461)"
+     transform="translate(71.446128,73.549745)"
      id="g12"><g
    fill="#a0a0a0"
    fill-opacity="1"
@@ -732,7 +730,7 @@
   </g>
 </g><g
      inkscape:label=""
-     transform="translate(95.122329,110.40687)"
+     transform="translate(18.283927,28.172005)"
      id="g13"><g
    fill="#a0a0a0"
    fill-opacity="1"
