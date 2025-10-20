@@ -1,1 +1,7 @@
-Add `Attachments` folder into obsidian `Attachments folder path` in `Files and links` to make obsidian see pictures.
+**Внимание**: Перед использованием конспектов, пожалуйста, ознакомьтесь с [дисклеймером](DISCLAIMER.md).
+
+## Советы читателям
+
+1. Для просмотра рекомендуется бесплатная (но не open-source :\[ ) мультиплатформенная программа [Obsidian]({https://obsidian.md/). При просмотре на `github` формулы и изображения могут отображаться некорректно.
+2. Добавьте директорию `Attachments` в настройку `Attachments folder path` (в разделе `Files and links`) в программе `Obsidian`  чтобы были видны изображения.
+3. Если обнаружите ошибки, можете указать на них в `issue`, или предложить исправление, открыв `pull request`.
